@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=misaka-10000)
 <!--
 **misaka-10000/misaka-10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=misaka-10000&theme=xcode" /> </div>
 ![misaka-10000's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaka-10000&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaka-10000&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,html,css,less,ejs,scss,makefile)
