@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Yaohui Zhang
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaohui-Zhang)
 <!--
 **misaka-10000/misaka-10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
